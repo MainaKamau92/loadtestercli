@@ -1,0 +1,8 @@
+{
+    "successful_requests": 300,
+    "slowest": 3.0954871510039084,
+    "fastest": 0.2564239260100294,
+    "total_time": 20.693386569008,
+    "requests_per_minute": 90.36819190836515,
+    "requests_per_second": 1.506136531806086
+}
